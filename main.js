@@ -43,7 +43,7 @@ const rl = readline.createInterface({
 
 // Function to prompt user for input
 function promptUser() {
-    rl.question('Enter command (help for more info): ', (command) => {
+    rl.question('Enter command (or help): ', (command) => {
         const [action, value] = command.split(' ');
 
         switch (action) {
