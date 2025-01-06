@@ -1,4 +1,4 @@
-# AbletonLink-GMA3
+# Ableton Link to GrandMA3 bridge
 
 AbletonLink-GMA3 is a project that integrates Ableton Link with the GrandMA3 lighting console, allowing for synchronized tempo and beat information between Ableton Live and GrandMA3.
 
